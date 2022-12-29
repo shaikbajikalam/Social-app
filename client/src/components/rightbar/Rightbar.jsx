@@ -54,7 +54,7 @@ export default function Rightbar({ user }) {
             <b>Pola Foster</b> and <b>3 other friends</b> have a birhday today.
           </span>
         </div>
-        <img className="rightbarAd" src="assets/ad.png" alt="" />
+        <img className="rightbarAd" src="https://t3.ftcdn.net/jpg/04/39/04/42/360_F_439044220_qmQeFV1wWxsquPU4PbiMq9urTGVsUMjB.jpg" alt="" />
         <h4 className="rightbarTitle">Online Friends</h4>
         <ul className="rightbarFriendList">
           {Users.map((u) => (
